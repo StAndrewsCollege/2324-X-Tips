@@ -30,7 +30,7 @@ These kinds of errors are when your code won't run, won't compile or throws erro
 
 Carefully read any errors or messages. Identify keywords, phrases or symbols that you recognize and work to parse what the error message is saying. For Arduino C the error will look something like:
 
-![image-20240201085835752](C:\Users\benjamin.lawrence\AppData\Roaming\Typora\typora-user-images\image-20240201085835752.png)
+![image-20240201085835752](https://github.com/StAndrewsCollege/2324-X-Tips/assets/149187329/58b27117-d940-49b2-95d4-cbb8ad9c9208)
 
 The last line is the error message: *expected ',' or ';' before 'Serial'* We can parse this by seeing that the computer wanted a character, and we can see that one character it might want is a semicolon. We know that semicolons end each command statement. Maybe we forgot to put one in?
 
